@@ -14,5 +14,7 @@ function yourAnimal() {
 }
 
 function add2(two, n) {
-return ('${n} ${two}');
+ two=2;
+ n=224-two;
+return (two+n);
 }
