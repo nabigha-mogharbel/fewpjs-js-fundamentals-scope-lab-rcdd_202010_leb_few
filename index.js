@@ -15,6 +15,6 @@ function yourAnimal() {
 
 function add2(two, n) {
  two=2;
- n=224-two;
+ n=79;
 return (two+n);
 }
