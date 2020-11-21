@@ -16,4 +16,4 @@ const two=2;
 function add2(two, n) {
 return (two+n);
 }
-add2(two, 67);
+add2(2, 67);
