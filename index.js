@@ -12,8 +12,7 @@ function yourAnimal() {
   animal='cat';
   return animal;
 }
-let two=yourAnimal();
-let n=myAnimal();
+
 function add2(two, n) {
 return ('${n} ${two}');
 }
