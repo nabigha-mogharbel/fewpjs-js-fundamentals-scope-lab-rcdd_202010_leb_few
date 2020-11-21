@@ -12,9 +12,8 @@ function yourAnimal() {
   animal='cat';
   return animal;
 }
-
-function add2(two, n) {
 const two=2;
+function add2(two, n) {
 return (two+n);
 }
 add2(two, 67);
