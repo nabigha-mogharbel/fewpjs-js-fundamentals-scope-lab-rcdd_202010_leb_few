@@ -14,6 +14,6 @@ function yourAnimal() {
 }
 const two=2;
 function add2(x, n) {
-return (two+n);
+return (x+n);
 }
 add2(2, 67);
