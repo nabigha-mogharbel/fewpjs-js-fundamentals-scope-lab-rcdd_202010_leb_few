@@ -14,7 +14,7 @@ function yourAnimal() {
 }
 
 function add2(two, n) {
-two=2;
+const two=2;
 return (two+n);
 }
 add2(two, 67);
