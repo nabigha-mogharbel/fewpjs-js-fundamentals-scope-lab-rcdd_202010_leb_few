@@ -13,7 +13,7 @@ function yourAnimal() {
   return animal;
 }
 const two=2;
-function add2(two, n) {
-return (x+n);
+function add2(n) {
+return (two+n);
 }
-add2(two, 67);
+add2(67);
